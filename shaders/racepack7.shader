@@ -67,7 +67,6 @@ textures/racepack7/redjello
 	}
 }
 
-
 textures/racepack7/grey2_nonsolid
 {
 	qer_editorimage textures/racepack7/grey2
@@ -83,6 +82,22 @@ textures/racepack7/grey2_nonsolid
 	}
 }
 
+textures/racepack7/grey_nonsolid
+{
+	qer_editorimage textures/racepack7/grey
+	surfaceparm nonsolid
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/racepack7/grey.tga
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+}
+
+
 textures/racepack7/yellow_nonsolid
 {
 	qer_editorimage textures/racepack7/yellow
@@ -95,7 +110,6 @@ textures/racepack7/yellow_nonsolid
 		map textures/racepack7/yellow.tga
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
-		tcGen environment 
 	}
 }
 

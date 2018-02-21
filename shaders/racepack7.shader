@@ -221,3 +221,18 @@ textures/racepack7/siwa_water_2
 		tcmod scroll .005 -.001
 	}
 }
+
+textures/racepack7/desertSky
+{
+	qer_editorimage	textures/racepack7/desert_up
+	q3map_surfacelight	120
+	sun 0.75 0.79 1 160 5 40
+	surfaceparm	sky
+	surfaceparm	noimpact
+	surfaceparm	nomarks
+	notc
+	q3map_nolightmap
+	q3map_novertexshadows
+	skyParms	textures/racepack7/desert 512 -
+}
+

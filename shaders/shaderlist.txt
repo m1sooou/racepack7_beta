@@ -1,0 +1,102 @@
+  ///////////////////////////////////
+  //                               // 
+  //   **** Clean Shaders ****     //
+  //         Nov. 7th, 2003        //
+  //          By Astrocreep        //
+  //          -------------        //
+  //    For Level Editing info:    //
+  //       www.map-center.com      //
+  //          -------------        //
+  //    For GtkRadiant Updates:    //
+  //       www.qeradiant.com       //
+  //                               //
+  ///////////////////////////////////
+
+
+bespin
+bounty
+byss
+cairn
+common
+danger
+decals
+desert
+Dini_Flexz
+doomgiver
+factory
+flares
+fle
+flelight
+fogs
+h_evil
+hoth
+imp_mine
+impdetention
+imperial
+jnegretetest
+kejim
+korriban
+models
+mp
+narshaddaa
+nar_streets
+piyo-FunJumps_R2
+quicktrip
+rail
+rbettenbergtest
+rift
+rocky_ruins
+rooftop
+sandcrawler
+siege
+skies
+stu
+system
+taspir
+tests
+vjun
+wedge
+yavin
+racearena
+otheryavin
+dinirun3_q3
+dfmp_simple
+ntx
+acrobat-bridges
+bullhighway
+srr2k5
+base_wall
+andromeda
+df_bbc
+racepack2
+emerald
+metal
+acrobat-bridges
+racepack3
+racepack4
+racepack5
+racepack6
+b-mountain
+metal2
+waterfall-et
+c-mountain
+cel
+metal
+metal2
+inder14
+terrain_soc
+liquid
+inder14
+inder20k
+plants_soc
+sockter
+terrain_soc
+cuddles-mappak01
+cuddles-mappak02
+eq2
+racepack7
+pornstar-khel
+pornstar-18percent
+photorealistic
+mrskull
+art_dev
